@@ -52,7 +52,9 @@
 	</dependencies>
 	
 	
-
+<profiles>
+<profile>
+<id>ST</id>
 	<build>
 	<pluginManagement>
 		<plugins>
@@ -69,4 +71,6 @@
 		</plugins>
 	</pluginManagement>
 	</build>
+	</profile>
+	</profiles>
 </project>
